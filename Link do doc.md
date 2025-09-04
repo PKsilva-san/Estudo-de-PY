@@ -1,1 +1,1 @@
-[link do doc]: https://ultra-tuberose-c05.notion.site/Anota-es-Basicas-de-PY-PK-26419c481ef9806283dbc2e3035a669a?source=copy_link
+[link do doc] https://ultra-tuberose-c05.notion.site/Anota-es-Basicas-de-PY-PK-26419c481ef9806283dbc2e3035a669a
